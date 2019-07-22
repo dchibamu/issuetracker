@@ -1,0 +1,23 @@
+{
+  "name": "issue-tracker",
+  "version": "1.0.0",
+  "description": "Automated Issue Tracking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchibamu/issuetracker.git"
+  },
+  "keywords": [
+    "Issue",
+    "Tracking"
+  ],
+  "author": "Ngonidzashe Chibamu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchibamu/issuetracker/issues"
+  },
+  "homepage": "https://github.com/dchibamu/issuetracker#readme"
+}
